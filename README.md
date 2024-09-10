@@ -13,7 +13,6 @@ I've been programming as a professional software engineer for 4years+ now. I ini
 * 📝  You can reach me at [pelumiezekiel.developer@gmail.com](mailto:pelumiezekiel.developer@gmail.com)
 
 ### My Skills
------------------
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -33,14 +32,11 @@ I've been programming as a professional software engineer for 4years+ now. I ini
 
 
 ### Socials
-====================================
-
 <b>Connect with me</b>
 
 <p align="left"><a href="https://www.twitter.com/0x0jade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-=====================================
 
 <b>My GitHub Stats</b>
 
