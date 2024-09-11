@@ -1,4 +1,5 @@
 Hello! 🤟 My name is Ezekiel Oladuti
+<img src="https://komarev.com/ghpvc/?username=JadeSass&style=flat-square&color=blue" alt=""/>
 ==============================================
 
 Fullstack Software Developer (Web Apps, Desktop Apps)
