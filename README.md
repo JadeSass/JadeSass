@@ -36,7 +36,7 @@ I've been programming as a professional software engineer for 4years+ now. I ini
 <b>Connect with me</b>
 
 <p align="left"><a href="https://www.twitter.com/0x0jade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"  style="background-color:white;" /></a></p>
-<a href="https://whatsapp.me/07036084429">
+<a href="https://wa.me/07036084429">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 
