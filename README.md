@@ -7,7 +7,7 @@ Fullstack Software Developer (Web Apps, Desktop Apps)
 
 I've been programming as a professional software engineer for 4years+ now. I initially started off as a frontend developer but over time, I got more comfortable with Backend development, and I decided to stay 😁
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm based in Lagos, Nigeria.
 * 🧠  I'm learning DevOps, and also Deploying at the same time.
 * 🤯  With over four years of experience in software development, I possess extensive knowledge in solving complex problems through coding.
 * 🤝  I'm open to collaboration on any new project (Laravel, PHP, Javascript).
